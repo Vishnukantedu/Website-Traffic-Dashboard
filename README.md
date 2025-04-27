@@ -33,5 +33,5 @@ Key features:
 ## 📸 Dashboard Screenshots
 | Traffic Sources | Conversion Rates | Bounce Rates |
 |:---:|:---:|:---:|
-| ![Page Views](path_to_your_screenshot1.png) | ![Scatter Plot](path_to_your_screenshot2.png) | ![Histogram](path_to_your_screenshot3.png) |
+| ![Page Views](pageviews.png) | ![Scatter Plot](scatterplot.png) | ![Histogram](histogram.png) |
 
